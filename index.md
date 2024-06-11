@@ -1,4 +1,4 @@
 ---
-title: #Welcome to Jaryd's blog#
+title: Welcome to Jaryd's blog
 ---
 
